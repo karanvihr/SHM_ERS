@@ -1,0 +1,11 @@
+# Environment variables
+.env
+.env.*
+
+# Allow example environment file
+!.env.example
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
